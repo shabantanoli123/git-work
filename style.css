@@ -1,6 +1,8 @@
 h1{
-    color: aqua;
+    color: rgb(42, 146, 10);
 }
-p{
-    color: red;
+
+button{
+background-color: burlywood;
+border-radius: 5px;
 }
